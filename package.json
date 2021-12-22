@@ -3,6 +3,7 @@
   "displayName": "quickmock",
   "description": "生成模拟数据",
   "version": "0.0.1",
+  "icon": "media/icon.jpeg",
   "engines": {
     "vscode": "^1.63.0"
   },
